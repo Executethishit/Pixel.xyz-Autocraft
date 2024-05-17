@@ -2,7 +2,7 @@
 
 ## Description
 
-AutoCraft is a userscript designed to automate crafting actions in the game Pixels. It automatically crafts an item and collects it with random delays to avoid bans. No more unnecessary clicks or popups!
+AutoCraft is a userscript designed to automate crafting actions in the game Pixels. It automatically crafts an item and collects it with random delays to avoid bans.
 
 ## Installation
 
