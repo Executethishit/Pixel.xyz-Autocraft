@@ -89,5 +89,5 @@ The script automates the following actions:
 
     setInterval(performActions, 0);
 
-    console.log("Script loaded! For support, join our Discord: [https://discord.gg/7TSJKtUK6Q]");
+    console.log("Script loaded! For support, join our Discord: [https://discord.gg/ukx23R9bqC]");
 })();
