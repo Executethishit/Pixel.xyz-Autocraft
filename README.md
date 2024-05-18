@@ -1,10 +1,11 @@
-# AutoCraft Script
+# AutoCraft Script " Join [Discord](https://www.discord.gg/ukx23R9bqC)
 
 ## Description
 
 AutoCraft is a userscript designed to automate crafting actions in the game Pixels. It automatically crafts an item and collects it with random delays to avoid bans.
 
 ## Installation
+
 
 1. Install a userscript manager extension like [Tampermonkey](https://www.tampermonkey.net/) for your browser.
 2. Click on the Tampermonkey icon and select "Create a new script".
